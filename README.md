@@ -16,10 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gyancr7&icon=0&color=1)](https://visitcount.itsvg.in)
-  
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
