@@ -3,9 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyabcr7&label=Views&color=blue&style=plastic" alt="gyancr7" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working as Senior Software Engineer at [Razorypay](https://razorpay.com/).
+- 🔭 I’m currently working as Lead Software Engineer at [Razorypay](https://razorpay.com/).
 - 🌱 I’m currently learning more about Scalability and Performance of Softwares.
-- 😄 Pronouns: He/His
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Golang](https://img.shields.io/badge/go-%23ED8B00.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
