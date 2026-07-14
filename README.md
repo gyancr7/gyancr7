@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyabcr7&label=Views&color=blue&style=plastic" alt="gyancr7" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working as Lead Software Engineer at [Razorypay](https://razorpay.com/).
+- 🔭 I’m currently working as Staff Software Engineer at [Razorypay](https://razorpay.com/).
 - 🌱 I’m currently learning more about Scalability and Performance of Softwares.
 
 # 💻Tech Stack
